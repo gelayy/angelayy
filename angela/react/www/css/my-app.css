@@ -1,0 +1,15 @@
+button{
+	color:red;
+	font-size: 30px;
+	background-color:pink;
+	border:none;
+}
+
+input{
+	font-size: 30px;
+}
+
+.text{
+	font-size: 30px;
+	font-family: 'arial';
+}
